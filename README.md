@@ -1,3 +1,3 @@
 # hello-world
-First Repository
-A Release Manager learning more about Github 
+#Release Manager learning new things about GitHub
+
